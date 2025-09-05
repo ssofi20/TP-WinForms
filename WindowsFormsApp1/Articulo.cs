@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
         public decimal PrecioArt { get; set; }
         public Categoria CategoriaArt { get; set; }
         public Marca MarcaArt { get; set; }
-        public Imagen ImagenArt { get; set }    
+        public Imagen ImagenArt { get; set; }    
     }
 
 }
