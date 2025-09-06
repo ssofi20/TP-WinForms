@@ -9,6 +9,7 @@ namespace WindowsFormsApp1
     internal class Articulo
     {
         public int IDArticulo { get; set; }
+        public string CodigoArt { get; set; }
         public string NombreArt { get; set; }
         public string DescripcionArt { get; set; }
         public decimal PrecioArt { get; set; }

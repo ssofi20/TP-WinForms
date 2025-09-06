@@ -9,7 +9,7 @@ namespace WindowsFormsApp1
     internal class Imagen
     {
         public int IDImagen { get; set; }
-        public int IDArtxImagen { get; set; }
-        public string Url { get; set; }
+        public int IDArticulo { get; set; }
+        public string UrlImagen { get; set; }
     }
 }
