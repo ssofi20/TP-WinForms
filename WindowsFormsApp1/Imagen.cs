@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Categoria
+    internal class Imagen
     {
-        public int IDCategoria { get; set; }
-
-        public string NombreCategoria { get; set; }
+        public int IDImagen { get; set; }
+        public int IDArtxImagen { get; set; }
+        public string Url { get; set; }
     }
 }
