@@ -10,6 +10,5 @@ namespace WindowsFormsApp1
     {
         public int IDMarca { get; set; }
         public string NombreMarca { get; set; }
-
     }
 }
