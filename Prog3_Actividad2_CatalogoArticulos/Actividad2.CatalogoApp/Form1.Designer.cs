@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace Actividad2.CatalogoApp
 {
     partial class Form1
     {

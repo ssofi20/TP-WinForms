@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace Actividad2.CatalogoApp
 {
     public partial class Form1 : Form
     {

@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp1
+namespace dominio
 {
     internal class Categoria
     {
-        public int IDCategoria { get; set; }
-
-        public string NombreCategoria { get; set; }
+        public int Id { get; set; }
+        public string Descripcion { get; set; }
     }
 }
